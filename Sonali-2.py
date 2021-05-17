@@ -1,7 +1,7 @@
 def fibonacci(n): 
     a=0
     b=1 
-# Check is n is less 
+# Check is n is less than 0
     if n < 0: 
        print("Incorrect input") 
     elif(n == 0): 
